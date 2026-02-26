@@ -1,2 +1,14 @@
-# frontend-engineering-skills
-前端工程化优秀 Skill 模板知识库，包含代码质量、CI/CD、性能优化等能力建设指南
+# Project Overview
+
+This document provides a brief overview of the Frontend Engineering Skills project...
+
+## Objectives
+- Objective 1
+- Objective 2
+
+## Technologies Used
+- Technology 1
+- Technology 2
+
+## Conclusion
+This project aims to enhance frontend engineering skills by...
